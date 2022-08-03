@@ -1,0 +1,22 @@
+.header{
+    color:aliceblue;
+    background-color: bisque;
+    justify-content: center;
+}
+.footer{
+    align-items: center;
+    justify-content: center;
+}
+.a{
+    size: 0em;
+    margin-top: 40 em;
+    margin:30em;
+    min-height: auto;
+}
+.Admin{
+    display:flex;
+    color:blue;
+    text-transform: capitalize;
+    justify-items: center;
+    justify-content: center;
+}

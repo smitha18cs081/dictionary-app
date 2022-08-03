@@ -1,0 +1,23 @@
+.header{
+    background-color: aqua;
+    justify-content: center;
+    text-align: right;
+    margin:auto
+}
+.footer{
+    background-color:beige;
+    text-transform: uppercase;
+    size:56px;
+    font-style: italic;
+
+}
+.User{
+    background-color: blanchedalmond;
+    text-align:center;
+    margin:14em;
+    justify-content: space-around;
+}
+.p{
+    font-size:45;
+    justify-content: space-between;
+}

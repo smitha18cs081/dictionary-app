@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    font-style: normal;
+    background-color: coral;
+    text-transform: lowercase;
+}
+.footer{
+    text-align:center;
+    border-radius: 45em;
+    margin-bottom: 15px;
+    background-color: crimson;
+}
+
+.p{
+    text-align: left;
+    background-color:blueviolet;
+    font-style:normal;
+    text-shadow: 19pt;
+}
